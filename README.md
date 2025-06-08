@@ -113,4 +113,4 @@ python Experiment_ComputationOverhead.py
 ## Appendix
 
 The full source code is available at the following GitHub repository:  
-https://github.com/Jacob-LiJingCheng/EDGEGO_QLEARN.git
+https://github.com/Jacob-LiJingCheng/EDGEGO_QLEARN
